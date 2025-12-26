@@ -102,4 +102,3 @@ strong authentication like username password , VPN , encryption etc.
 As extranet would be an option with secure collaboration and data exchabge with suppliera and 
 it is also the one of the options which would be less risky because of the limited access and 
 monitored.
-
