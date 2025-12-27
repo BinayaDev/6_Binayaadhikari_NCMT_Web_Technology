@@ -1,10 +1,10 @@
 # Web Technology  
 ## Assignment 
 
-**Student Name:** Binaya Adhikari
+**Student Name:** Binaya Adhikari 
 **Roll/ID No:** 6  
 **Program:** BIT  
-**Date:** 2025/12/27
+**Date:** 2025/12/27 
 
 ##  CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
 
