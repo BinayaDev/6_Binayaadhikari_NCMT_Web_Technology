@@ -1,35 +1,40 @@
 # Web Technology  
 ## Assignment 
 
-*Student Name:* Binaya Adhikari
-*Roll/ID No:* 6  
-*Program:* BIT  
-*Date:* 2025/12/27
+**Student Name:** Binaya Adhikari
+**Roll/ID No:** 6  
+**Program:** BIT  
+**Date:** 2025/12/27
 
 ##  CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
 
 ## Group A: Short Questions (2 Marks)
 
 ### 1. Define the term "Sitemap” in the planning phase.
-*Answer:*A sitemap is a structured outline of all the pages of a website. It helps in planning how pages are connected and makes navigation clear before actual development starts.
+**Answer:**
+A sitemap is a structured outline of all the pages of a website. It helps in planning how pages are connected and makes navigation clear before actual development starts.
 
 
 ### 2. What is the purpose of the ”Launch” phase in web development?
-*Answer:*The launch phase is when the website is made live on the internet. It includes final checks, uploading files to the server, and making the site accessible to users.
+**Answer:**
+The launch phase is when the website is made live on the internet. It includes final checks, uploading files to the server, and making the site accessible to users.
 
 
 ### 3. Why is ”Documentation” important in the development lifecycle?
-*Answer:*Documentation is important because it records all technical details and processes. It helps developers understand, maintain, and update the website in the future easily.
+**Answer:**
+Documentation is important because it records all technical details and processes. It helps developers understand, maintain, and update the website in the future easily.
 
 ### 4. Differentiate between Front-end and Back-end development.
-*Answer:Front-end development: Deals with the visual part of the website that users see and interact with, such as layout, buttons, and colors.
+**Answer:**
+Front-end development: Deals with the visual part of the website that users see and interact with, such as layout, buttons, and colors.
 Back-end development: Works on the server side, handling databases, user data, and website logic.
 
 
 ## Group B: Long Questions (4 Marks)
 
 ### 5. ”Planning is the most critical phase of web development.” Discuss this statement by listing the key activities performed during the planning phase.
-*Answer:*Planning is the most important phase because it creates a clear roadmap for the entire project. If planning is weak, mistakes happen later.
+**Answer:**
+Planning is the most important phase because it creates a clear roadmap for the entire project. If planning is weak, mistakes happen later.
 Key activities in the planning phase include:
 Understanding client requirements
 Identifying target users
@@ -39,7 +44,7 @@ Selecting technologies and tools
 Good planning saves time, reduces cost, and avoids confusion during development.
 
 ### 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
-*Answer:*
+**Answer:**
 The maintenance phase is iterative because it is done repeatedly after the website is launched. A website needs regular updates and improvements.
 A website is never truly finished because:
 Content needs to be updated
@@ -49,7 +54,7 @@ Security updates are needed
 User needs and technology keep changing, so continuous maintenance is necessary.
 
 ### 7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
-*Answer:*
+**Answer:**
 Information gathering is the first step where developers collect details about the website’s purpose, goals, users, and content. This is done through meetings, interviews, and research.
 Understanding the target audience is crucial because:
 It helps design user-friendly layouts
@@ -60,7 +65,8 @@ Without knowing the audience, the website may fail to meet user expectations
 ## Group C: Scenario-Based Questions (5 Marks)
 
 ### 8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining the potential risks (security, functionality, compatibility) of skipping this phase.
-*Answer:*For example when people try to buy things the site might not work right. They might not be able to pay for the things they want. This will make them very unhappy. They will not come back to the site. The e-commerce site will lose money. The client will not be happy.
+**Answer:**
+For example when people try to buy things the site might not work right. They might not be able to pay for the things they want. This will make them very unhappy. They will not come back to the site. The e-commerce site will lose money. The client will not be happy.
 
 We have to test the site to make sure it is safe. If the site is not safe people might be able to get into it and steal information. This will be very bad for the client and the people who use the site.
 
@@ -74,7 +80,8 @@ Testing is really important, for the website. It makes sure the website is secur
 
 
 ### 9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
-*Answer:*The big issue here is that the developer did not do the planning and design work. The developer skipped these steps. The client did not get to see a plan for the website like a map of the site or a test version. This meant the client did not really know what the website would look like in terms of the website structure and the website layout. This led to problems, between the client and the developer because they did not understand each other about the website structure and the website layout.
+**Answer:**
+The big issue here is that the developer did not do the planning and design work. The developer skipped these steps. The client did not get to see a plan for the website like a map of the site or a test version. This meant the client did not really know what the website would look like in terms of the website structure and the website layout. This led to problems, between the client and the developer because they did not understand each other about the website structure and the website layout.
 
 When you do coding without getting approval Coding can be a big problem. You might have to do the work and that is a waste of time and effort. For example the client did not like the layout so the developer had to do a lot of the Coding work. This meant the developer lost time and the client lost money because of the Coding that had to be done.
 
@@ -88,7 +95,8 @@ Making a plan and talking to the client are very important to avoid issues, like
 
 
 ### 10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development lifecycle was neglected? Explain the activities involved in this phase.
-*Answer:*The maintenance phase involves a lot of activities These activities include updating the exam schedules on the university website. This means that the people in charge of the website have to check the website to make sure that all the information on it is correct and up to date like the exam schedules. They also have to make sure that the university website is working properly and that students can easily find what they are looking for, such as the exam schedules. The maintenance phase is very important for the university website because it helps to keep the students engaged and interested, in using the website especially when they can find the exam schedules.
+**Answer:**
+The maintenance phase involves a lot of activities These activities include updating the exam schedules on the university website. This means that the people in charge of the website have to check the website to make sure that all the information on it is correct and up to date like the exam schedules. They also have to make sure that the university website is working properly and that students can easily find what they are looking for, such as the exam schedules. The maintenance phase is very important for the university website because it helps to keep the students engaged and interested, in using the website especially when they can find the exam schedules.
 
 The part that people often forget about is the Maintenance phase. The Maintenance phase is really important because it helps keep the website fresh and working properly after it is live. The website needs to have things added to it and old things fixed so that it stays good and people can still use it.
 
