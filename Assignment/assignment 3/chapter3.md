@@ -1,3 +1,11 @@
+# Web Technology  
+## Assignment 
+
+**Student Name:** Binaya Adhikari 
+**Roll/ID No:** 6  
+**Program:** BIT  
+**Date:** 2026/01/11
+
 # Chapter 3: Website Structure Design
 
 ## Group A: Short Questions (2 Marks Each)
