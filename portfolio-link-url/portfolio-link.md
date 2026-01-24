@@ -1,4 +1,4 @@
 # Portfolio link 
-[Portfolio link](http://127.0.0.1:5500/portfolio.html)
+[Portfolio link](https://binayadev.github.io/Portfolio/)
 # Portfolio github link
 [GITHUB link](https://github.com/BinayaDev/Portfolio)
